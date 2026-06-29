@@ -1,56 +1,51 @@
 {
-  "distance": "7.3 km",
-  "duration": "43 mins",
+  "distance": "11.6 km",
+  "duration": "25 mins",
   "steps": [
     {
       "type": "WALK",
-      "instruction": "Head southwest on Westney Pl toward Mitcham Ave",
-      "distance": "0.1 km"
+      "instruction": "Head east on Swanson Rd toward Knox Rd",
+      "distance": "0.2 km"
     },
     {
       "type": "WALK",
-      "instruction": "Turn right onto Mitcham Ave",
-      "distance": "65 m"
-    },
-    {
-      "type": "BUS",
-      "line": "Te Rapa",
-      "headsign": "To Transport Centre",
-      "depart": "10 Mitcham Ave, Hamilton",
-      "arrive": "12 Norton Rd, Hamilton",
-      "dep_time": "9:18\u202fAM",
-      "arr_time": "9:30\u202fAM",
-      "stops": 9
+      "instruction": "Turn right",
+      "distance": "22 m"
     },
     {
       "type": "WALK",
-      "instruction": "Head east on Norton Rd",
-      "distance": "10 m"
+      "instruction": "Turn left",
+      "distance": "32 m"
     },
     {
-      "type": "WALK",
-      "instruction": "Slight left to stay on Norton Rd",
-      "distance": "31 m"
-    },
-    {
-      "type": "WALK",
-      "instruction": "At the roundabout, take the 1st exit and stay on Norton Rd\nDestination will be on the left",
-      "distance": "73 m"
-    },
-    {
-      "type": "BUS",
-      "line": "Meteor",
-      "headsign": "To Rotokauri Transport Hub (3) (Via Morrinsville Rd and Transport Centre)",
-      "depart": "3 Norton Rd, Hamilton",
-      "arrive": "128 Dinsdale Rd, Hamilton",
-      "dep_time": "9:49\u202fAM",
-      "arr_time": "9:57\u202fAM",
+      "type": "TRAIN",
+      "line": "West",
+      "headsign": "Waitemata/N",
+      "depart": "Swanson",
+      "arrive": "Fruitvale Rd",
+      "dep_time": "10:40\u202fAM",
+      "arr_time": "10:57\u202fAM",
       "stops": 7
     },
     {
       "type": "WALK",
-      "instruction": "Head southeast on Dinsdale Rd toward Lachlan Dr\nDestination will be on the left",
-      "distance": "34 m"
+      "instruction": "Head south toward Fruitvale Rd",
+      "distance": "0.1 km"
+    },
+    {
+      "type": "WALK",
+      "instruction": "Turn left onto Fruitvale Rd",
+      "distance": "89 m"
+    },
+    {
+      "type": "WALK",
+      "instruction": "Turn left",
+      "distance": "71 m"
+    },
+    {
+      "type": "WALK",
+      "instruction": "Turn right\nDestination will be on the left",
+      "distance": "22 m"
     }
   ]
 }

@@ -7,9 +7,9 @@
 # defaults
 export $(grep -v '^#' .env | xargs)
 SEP="."
-CITY=", Auckland, New Zealand"
-MODE="TRANSIT"
-PREF="LESS_WALKING"
+#CITY=", Auckland, New Zealand"
+#MODE="TRANSIT"
+#PREF="LESS_WALKING"
 
 # string format: [START][SEP][DES] [ARR|DEP] [0000]
 input=$(cat input.txt | xargs)
