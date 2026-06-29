@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+# parse-route.sh — summarise Routes API response.json
+
+FILE=${1:-response.json}
+
+python3 -c "
+import json
+
+with open('$FILE') as f:
+    data = json.load(f)
+
+leg = data['routes'][0]['legs'][0]
+lv  = leg['localizedValues']
+
+print(f\"Distance : {lv['distance']['text']}\")
+print(f\"Duration : {lv['duration']['text']}\")
+print()
+
+for step in leg['steps']:
+    mode = step['travelMode']
+    nav  = step.get('navigationInstruction', {})
+    inst = nav.get('instructions', '')
+    dist = step.get('localizedValues', {}).get('distance', {}).get('text', '')
+    td   = step.get('transitDetails')
+
+    if mode == 'TRANSIT' and td:
+        dep   = td['stopDetails']['departureStop']['name']
+        arr   = td['stopDetails']['arrivalStop']['name']
+        dep_t = td['localizedValues']['departureTime']['time']['text']
+        arr_t = td['localizedValues']['arrivalTime']['time']['text']
+        line  = td['transitLine']['name']
+        stops = td['stopCount']
+        print(f\"  TRAIN   : {line} line towards {td['headsign']}\")
+        print(f\"  Depart  : {dep} at {dep_t}\")
+        print(f\"  Arrive  : {arr} at {arr_t}\")
+        print(f\"  Stops   : {stops}\")
+        print()
+    elif mode == 'WALK' and inst:
+        print(f\"  WALK    : {inst} ({dist})\")
+"

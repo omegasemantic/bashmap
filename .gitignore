@@ -1,0 +1,7 @@
+log.txt
+__pycache__/
+gmap.json
+.env
+output.json
+response.json
+result.html

@@ -1,0 +1,252 @@
+{
+  "routes": [
+    {
+      "legs": [
+        {
+          "distanceMeters": 2281,
+          "duration": "842s",
+          "staticDuration": "842s",
+          "polyline": {
+            "encodedPolyline": "lvz_F{hsi`@q@fEJDg@zChF|AAFAHpGlBxEpA|BaNZEtA?hAJ~ENjA@ZWxB_LrIad@b@{BAOXaAnF}GEE?AiC`DW\\"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": -36.8421537,
+              "longitude": 174.7574157
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": -36.8515531,
+              "longitude": 174.7660511
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 166,
+              "staticDuration": "135s",
+              "polyline": {
+                "encodedPolyline": "lvz_F{hsi`@q@fEJDg@zC"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -36.8421537,
+                  "longitude": 174.7574157
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -36.841764399999995,
+                  "longitude": 174.7556132
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head west on Madden St toward Waikokota Ln"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "2 mins"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 140,
+              "staticDuration": "113s",
+              "polyline": {
+                "encodedPolyline": "~sz_Fq}ri`@hF|A"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -36.841764399999995,
+                  "longitude": 174.7556132
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -36.8429314,
+                  "longitude": 174.7551425
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Daldy St\nDestination will be on the right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "2 mins"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 1852,
+              "staticDuration": "503s",
+              "polyline": {
+                "encodedPolyline": "f{z_Fkzri`@AHpGlBxEpA|BaNZEtA?hAJ~ENjA@ZWxB_LrIad@b@{BAOXaAnF}GEE"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -36.84292,
+                  "longitude": 174.7551
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -36.85236,
+                  "longitude": 174.767
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Bus towards Remuera Rd"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1.9 km"
+                },
+                "staticDuration": {
+                  "text": "8 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Auckland Art Gallery",
+                    "location": {
+                      "latLng": {
+                        "latitude": -36.85236,
+                        "longitude": 174.767
+                      }
+                    }
+                  },
+                  "arrivalTime": "2026-06-29T20:24:45Z",
+                  "departureStop": {
+                    "name": "Madden Street",
+                    "location": {
+                      "latLng": {
+                        "latitude": -36.84292,
+                        "longitude": 174.7551
+                      }
+                    }
+                  },
+                  "departureTime": "2026-06-29T20:16:22Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "8:24 AM"
+                    },
+                    "timeZone": "Pacific/Auckland"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "8:16 AM"
+                    },
+                    "timeZone": "Pacific/Auckland"
+                  }
+                },
+                "headsign": "Remuera Rd",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "New Zealand Bus",
+                      "phoneNumber": "+64 9 355 3553",
+                      "uri": "https://at.govt.nz/"
+                    }
+                  ],
+                  "name": "75",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 6
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 123,
+              "staticDuration": "91s",
+              "polyline": {
+                "encodedPolyline": "fv|_Fydui`@iC`DW\\"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -36.852356,
+                  "longitude": 174.7670068
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -36.8515531,
+                  "longitude": 174.7660511
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head northwest on Wellesley St E toward Kitchener St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "2 mins"
+                }
+              },
+              "travelMode": "WALK"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "2.3 km"
+            },
+            "duration": {
+              "text": "14 mins"
+            },
+            "staticDuration": {
+              "text": "14 mins"
+            }
+          },
+          "stepsOverview": {
+            "multiModalSegments": [
+              {
+                "stepStartIndex": 0,
+                "stepEndIndex": 1,
+                "navigationInstruction": {
+                  "instructions": "Walk to Madden Street"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 2,
+                "stepEndIndex": 2,
+                "navigationInstruction": {
+                  "instructions": "Bus towards Remuera Rd"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 3,
+                "stepEndIndex": 3,
+                "travelMode": "WALK"
+              }
+            ]
+          }
+        }
+      ],
+      "distanceMeters": 2281,
+      "duration": "842s"
+    }
+  ]
+}

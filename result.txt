@@ -1,0 +1,21 @@
+Distance : 7.3 km
+Duration : 43 mins
+
+  WALK  : Head southwest on Westney Pl toward Mitcham Ave (0.1 km)
+  WALK  : Turn right onto Mitcham Ave (65 m)
+  BUS   : Te Rapa towards To Transport Centre
+          Depart 10 Mitcham Ave, Hamilton at 9:18 AM
+          Arrive 12 Norton Rd, Hamilton at 9:30 AM
+          9 stops
+
+  WALK  : Head east on Norton Rd (10 m)
+  WALK  : Slight left to stay on Norton Rd (31 m)
+  WALK  : At the roundabout, take the 1st exit and stay on Norton Rd
+Destination will be on the left (73 m)
+  BUS   : Meteor towards To Rotokauri Transport Hub (3) (Via Morrinsville Rd and Transport Centre)
+          Depart 3 Norton Rd, Hamilton at 9:49 AM
+          Arrive 128 Dinsdale Rd, Hamilton at 9:57 AM
+          7 stops
+
+  WALK  : Head southeast on Dinsdale Rd toward Lachlan Dr
+Destination will be on the left (34 m)

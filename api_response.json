@@ -1,0 +1,456 @@
+{
+  "routes": [
+    {
+      "legs": [
+        {
+          "distanceMeters": 7302,
+          "duration": "2568s",
+          "staticDuration": "2568s",
+          "polyline": {
+            "encodedPolyline": "vmpeFuvtl`@lBpEs@n@g@T@?@Ff@UtDaDT]_@q@{HaQWa@}@u@}DmC_AeA{AgCe@_APOp@SdLuCb@SpHvNbApBRT`@TnJhAd@ClBq@VG|Df@lIlAfALJE`@DLADFf@LDFj@F|CFrANrDn@|Eil@l@kIb@sEpAwOEABUE_AXFNAKd@EPEDEn@B@KCy@bKdLrNcBxBmBzCnF~Gt@dAvAfCtCfGtVns@dGnQ|@dCNNFNA^RFVd@ZVt@RXENBRTF\\AXMXULY?c@z@sCvRq@jEYv@a@bA?^vAhFFZDf@An@E\\IZc@x@y@jADF^k@IKHM"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": -37.772602299999996,
+              "longitude": 175.2562711
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": -37.793371,
+              "longitude": 175.2398601
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 115,
+              "staticDuration": "125s",
+              "polyline": {
+                "encodedPolyline": "vmpeFuvtl`@lBpE"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -37.772602299999996,
+                  "longitude": 175.2562711
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -37.7731547,
+                  "longitude": 175.2552226
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head southwest on Westney Pl toward Mitcham Ave"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "2 mins"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 65,
+              "staticDuration": "51s",
+              "polyline": {
+                "encodedPolyline": "dqpeFcptl`@s@n@g@T"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -37.7731547,
+                  "longitude": 175.2552226
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -37.7726945,
+                  "longitude": 175.2548735
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto Mitcham Ave"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "65 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 3645,
+              "staticDuration": "694s",
+              "polyline": {
+                "encodedPolyline": "jnpeF}mtl`@@Ff@UtDaDT]_@q@{HaQWa@}@u@}DmC_AeA{AgCe@_APOp@SdLuCb@SpHvNbApBRT`@TnJhAd@ClBq@VG|Df@lIlAfALJE`@DLADFf@LDFj@F|CFrANrDn@|Eil@l@kIb@sEpAwOEA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -37.772698999999996,
+                  "longitude": 175.25487099999998
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -37.785077799999996,
+                  "longitude": 175.2706639
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Bus towards To Transport Centre"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "3.6 km"
+                },
+                "staticDuration": {
+                  "text": "12 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "12 Norton Rd, Hamilton",
+                    "location": {
+                      "latLng": {
+                        "latitude": -37.785077799999996,
+                        "longitude": 175.2706639
+                      }
+                    }
+                  },
+                  "arrivalTime": "2026-06-29T21:30:15Z",
+                  "departureStop": {
+                    "name": "10 Mitcham Ave, Hamilton",
+                    "location": {
+                      "latLng": {
+                        "latitude": -37.772698999999996,
+                        "longitude": 175.25487099999998
+                      }
+                    }
+                  },
+                  "departureTime": "2026-06-29T21:18:41Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "9:30 AM"
+                    },
+                    "timeZone": "Pacific/Auckland"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "9:18 AM"
+                    },
+                    "timeZone": "Pacific/Auckland"
+                  }
+                },
+                "headsign": "To Transport Centre",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "Busit",
+                      "uri": "http://www.busit.co.nz/"
+                    }
+                  ],
+                  "name": "Te Rapa",
+                  "color": "#6bcdf2",
+                  "nameShort": "18",
+                  "textColor": "#010203",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 9
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 10,
+              "staticDuration": "8s",
+              "polyline": {
+                "encodedPolyline": "v{reFspwl`@BU"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -37.7850793,
+                  "longitude": 175.2706634
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -37.7850953,
+                  "longitude": 175.2707692
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head east on Norton Rd"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "10 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 31,
+              "staticDuration": "25s",
+              "polyline": {
+                "encodedPolyline": "z{reFiqwl`@E_A"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -37.7850953,
+                  "longitude": 175.2707692
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -37.7850666,
+                  "longitude": 175.2710865
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_SLIGHT_LEFT",
+                "instructions": "Slight left to stay on Norton Rd"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "31 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 73,
+              "staticDuration": "78s",
+              "polyline": {
+                "encodedPolyline": "t{reFiswl`@XFNAKd@EPEDEn@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -37.7850666,
+                  "longitude": 175.2710865
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -37.785128900000004,
+                  "longitude": 175.2705073
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "ROUNDABOUT_LEFT",
+                "instructions": "At the roundabout, take the 1st exit and stay on Norton Rd\nDestination will be on the left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "73 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 3329,
+              "staticDuration": "527s",
+              "polyline": {
+                "encodedPolyline": "d|reFsowl`@KCy@bKdLrNcBxBmBzCnF~Gt@dAvAfCtCfGtVns@dGnQ|@dCNNFNA^RFVd@ZVt@RXENBRTF\\AXMXULY?c@z@sCvRq@jEYv@a@bA?^vAhFFZDf@An@E\\IZc@x@y@jADF"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -37.7851472,
+                  "longitude": 175.2705028
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -37.793215,
+                  "longitude": 175.239508
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Bus towards To Rotokauri Transport Hub (3) (Via Morrinsville Rd and Transport Centre)"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "3.3 km"
+                },
+                "staticDuration": {
+                  "text": "9 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "128 Dinsdale Rd, Hamilton",
+                    "location": {
+                      "latLng": {
+                        "latitude": -37.793215,
+                        "longitude": 175.239508
+                      }
+                    }
+                  },
+                  "arrivalTime": "2026-06-29T21:57:59Z",
+                  "departureStop": {
+                    "name": "3 Norton Rd, Hamilton",
+                    "location": {
+                      "latLng": {
+                        "latitude": -37.7851472,
+                        "longitude": 175.2705028
+                      }
+                    }
+                  },
+                  "departureTime": "2026-06-29T21:49:12Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "9:57 AM"
+                    },
+                    "timeZone": "Pacific/Auckland"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "9:49 AM"
+                    },
+                    "timeZone": "Pacific/Auckland"
+                  }
+                },
+                "headsign": "To Rotokauri Transport Hub (3) (Via Morrinsville Rd and Transport Centre)",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "Busit",
+                      "uri": "http://www.busit.co.nz/"
+                    }
+                  ],
+                  "name": "Meteor",
+                  "color": "#ed7f02",
+                  "nameShort": "M",
+                  "textColor": "#010203",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 7
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 34,
+              "staticDuration": "35s",
+              "polyline": {
+                "encodedPolyline": "pnteF}mql`@^k@IKHM"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -37.793209499999996,
+                  "longitude": 175.2395147
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -37.793371,
+                  "longitude": 175.2398601
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head southeast on Dinsdale Rd toward Lachlan Dr\nDestination will be on the left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "34 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "7.3 km"
+            },
+            "duration": {
+              "text": "43 mins"
+            },
+            "staticDuration": {
+              "text": "43 mins"
+            }
+          },
+          "stepsOverview": {
+            "multiModalSegments": [
+              {
+                "stepStartIndex": 0,
+                "stepEndIndex": 1,
+                "navigationInstruction": {
+                  "instructions": "Walk to 10 Mitcham Ave, Hamilton"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 2,
+                "stepEndIndex": 2,
+                "navigationInstruction": {
+                  "instructions": "Bus towards To Transport Centre"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 3,
+                "stepEndIndex": 5,
+                "navigationInstruction": {
+                  "instructions": "Walk to 3 Norton Rd, Hamilton"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 6,
+                "stepEndIndex": 6,
+                "navigationInstruction": {
+                  "instructions": "Bus towards To Rotokauri Transport Hub (3) (Via Morrinsville Rd and Transport Centre)"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 7,
+                "stepEndIndex": 7,
+                "travelMode": "WALK"
+              }
+            ]
+          }
+        }
+      ],
+      "distanceMeters": 7302,
+      "duration": "2576s"
+    }
+  ]
+}

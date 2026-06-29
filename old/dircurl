@@ -1,0 +1,1 @@
+curl "https://maps.googleapis.com/maps/api/directions/json?origin=Fruitvale+Station,Auckland,New+Zealand&destination=305+Queen+St,Auckland,New+Zealand&mode=transit&transit_routing_preference=less_walking&departure_time=1751263200&key=${GMAPS_API_KEY}"

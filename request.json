@@ -1,0 +1,14 @@
+{
+  "origin": {
+    "address": "14 westney place hamilton, Auckland, New Zealand"
+  },
+  "destination": {
+    "address": "dinsdale hamilton, Auckland, New Zealand"
+  },
+  "travelMode": "TRANSIT",
+  "transitPreferences": {
+    "routingPreference": "LESS_WALKING"
+  },
+  "departureTime": null,
+  "arrivalTime": null
+}

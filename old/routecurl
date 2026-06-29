@@ -1,0 +1,7 @@
+curl -X POST "https://routes.googleapis.com/directions/v2:computeRoutes" \
+  -H "Content-Type: application/json" \
+  -H "X-Goog-Api-Key: ${GMAPS_API_KEY}" \
+  -H "X-Goog-FieldMask: routes.duration,routes.distanceMeters,routes.legs" \
+  -d @request.json
+
+
