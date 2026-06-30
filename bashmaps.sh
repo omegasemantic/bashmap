@@ -6,30 +6,25 @@
 
 # defaults
 export $(grep -v '^#' .env | xargs)
-SEP="."
-#CITY=", Auckland, New Zealand"
-#MODE="TRANSIT"
-#PREF="LESS_WALKING"
 
-# string format: [START][SEP][DES] [ARR|DEP] [0000]
+# string format: [START].[DES].[ARR|DEP 0000]
 input=$(cat input.txt | xargs)
 
-# split on separator
-START="${input%%${SEP}*}"
-REST="${input#*${SEP}}"
+# three-part split on .
+IFS='.' read -r START DES TIMEFIELD <<< "$input"
 START=$(echo "$START" | xargs)
+DES=$(echo "$DES" | xargs)
+TIMEFIELD=$(echo "$TIMEFIELD" | xargs)
+TIMEFIELD="${TIMEFIELD^^}"  # uppercase before regex
 
-# extract ARR|DEP and TIME from REST
-if [[ "$REST" =~ (ARR|DEP)[[:space:]]+([0-9]{4}) ]]; then
+# extract ARR|DEP and TIME
+if [[ "$TIMEFIELD" =~ (ARR|DEP)[[:space:]]+([0-9]{4}) ]]; then
     TYPE="${BASH_REMATCH[1]}"
     TIME="${BASH_REMATCH[2]}"
-    DES=$(echo "$REST" | sed "s/${TYPE}.*//")
 else
     TYPE="DEP"
     TIME=""
-    DES="$REST"
 fi
-DES=$(echo "$DES" | xargs)
 
 # build ISO 8601 timestamp if time provided
 if [[ -n "$TIME" ]]; then
@@ -41,17 +36,12 @@ else
     TIMESTAMP=""
 fi
 
-# build address strings
-ORIGIN="${START}${CITY}"
-DEST="${DES}${CITY}"
-
-# write request.json
-python3 write_request.py "$ORIGIN" "$DEST" "$TYPE" "$TIMESTAMP"
+# write request.json (resolve favs, append city etc)
+python3 write_request.py "$START" "$DES" "$TYPE" "$TIMESTAMP"
 
 # breakpoint 1
-
-echo "Origin  : $ORIGIN"
-echo "Dest    : $DEST"
+echo "Origin  : $START"
+echo "Dest    : $DES"
 echo "Type    : $TYPE"
 echo "Time    : $TIMESTAMP"
 echo "request.json written"
@@ -66,18 +56,23 @@ curl -s -X POST "https://routes.googleapis.com/directions/v2:computeRoutes" \
   -d @request.json > api_response.json
 
 echo "api_response.json written"
-# sanity check (delete/comment next line) 
-cat api_response.json | python3 -c "import json,sys; d=json.load(sys.stdin); print('Status: OK' if 'routes' in d else 'ERROR: ' + str(d))"
+# sanity check (delete/comment next line)
+#cat api_response.json | python3 -c "import json,sys; d=json.load(sys.stdin); print('Status: OK' if 'routes' in d else 'ERROR: ' + str(d))"
 
 # breakpoint 3
 
-# reduce api respose to relevant steps
-# write_steps.py < api_response.json > steps.json
+# reduce api response to relevant steps
 python3 write_steps.py api_response.json > steps.json
-echo "substeps.json written"
+echo "steps.json written"
 # sanity check (delete/comment next line)
 cat steps.json | python3 -c "import json,sys; d=json.load(sys.stdin); print(f'Steps: {len(d[\"steps\"])}')"
 
-# convert step.jason to human friendly form
-# write_result.sh < steps.json > result.txt 
-python3 write_result.py > result.txt
+# convert steps.json to human friendly form
+# grep cuts short distances
+python3 write_result.py |grep -vE 'WALK.*\([1-9] m\)|WALK.*\([12][0-9] m\)' > result.txt
+#python3 write_result.py > result.txt
+
+
+
+
+# eof

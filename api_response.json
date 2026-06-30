@@ -3,335 +3,399 @@
     {
       "legs": [
         {
-          "distanceMeters": 11632,
-          "duration": "1514s",
-          "staticDuration": "1514s",
+          "distanceMeters": 52741,
+          "duration": "6794s",
+          "staticDuration": "6794s",
           "polyline": {
-            "encodedPolyline": "th_`F_koh`@KcDKwBD}APBViCXBH?DKHaAp@LCArAsLl@oIj@yJbAmOv@gLJmDDwLAkFKgEW{FMmEUsEK}DA}KNuEVyDxAeQzA}Ql@uI\\wDd@kHj@iHPeB\\}An@iBp@yA|@uAjFsGv@iAp@kAh@_BfBaHxJ_b@tAoFlAuFnA}Dx@iBdAeBnBuBbAy@tIiF~Ai@jASpCOjN_@pEOdHOpYs@|KWxTg@`N]fBWdAWrAm@~AgAvAsAvIaK~P}RbBaCjAyBfAeC~@mCz@aDzCkNfGsXhDyN~BsJlBsH|@{Df@gDTwBV{JRcFPsICcBM}A]wB_@uAwAwE]{AMuACqBF_BVmBDSCAr@w@HDFg@Pg@l@uAq@Q}AUDbBEZKNg@K"
+            "encodedPolyline": "~eyeFkhcj`@wAqBgAaAaEiC_Aw@qAoAk@a@g@QwB[[EmCeAg@]yBmB[c@KYMk@E_DKcBUoBKo@[u@OW[aAYwBCg@@i@Lg@\\u@p@sANe@Jc@Fg@@m@EaBMi@K[OUiA}@_BgAk@i@[i@Wo@OcAE_AHsDf@yMFuD?e@WmDSiCYqCl@CIWEDDESWQGIACOWk@_@i@aDuDOUkAiA_Ao@e@_@[e@e@aAoAiGw@yE[sBUm@a@_AcBaDy@oBoBuCo@u@q@c@iBq@eDs@uA]wHk@OB_ACMLOCGQBSHGJiADEb@oDAa@GUQWIC_Au@OAIO@Q_@}@IOi@a@k@Y}@L_GlC}B}HsDeOw@kA{AoBZSzDaANI^wA`@{BByADcE@i@Hi@tCiLPwADSLUVYpAgAd@KnAFdDDvC}@Lr@RxCH\\NL|HzEh@p@f@`Al@dB\\l@PLRDDqAHg@Nc@hBaE`@gBLkA?o@E{@s@eIEmA?w@Bo@P_Bf@yAbE{H|EkI~BeDvGaJnBcCTSdAk@z@Yl@IdAB|AX^Jz@f@~AhAxIpFdEjBvDz@~Al@xAt@tGzE`B|@l@Nj@Df@ChBc@`EwAxAa@hD_B~@s@^_@Xa@\\u@XcAXsB@{AK_BSoAe@uAwFgNsFyLg@sA_@yAKaAEo@B{B^{Dj@qERaARo@Tg@x@oA`F{EhDaDhBwAnFeFf@o@x@aBzJ{Sx@sBhB{Fb@_A|@uApGqHtBwBrCgCbCmBtA}@pEaBn@e@r@{@h@mAVaAJs@Fo@BcAWqJ@aBLkBFe@fNml@pCmLXyANsABwAGqASoAk@qA_@q@y@_AeCkCeAqAWe@_@oAU}AQ{DK_BU{ASu@Ui@i@{@iBmB_FeFWYy@mAmK_T{DoIg@sBSwAMyAy@ga@@uKEwAKqAOgAiCyMcAgEoFiRw@{B]u@g@u@kA{AyJuLw@eA_@{@WcAKy@C}@BqCXqLF{CBm@VqAXy@`@q@TUv@o@hC}A`@c@dA_BjFcJnRu\\\\k@v@_BtDsIlAyCn@_CV{ATyBHiBBqAEcBGwAg@eE{CsTWyBC{@@}@j@kKN}AXeAd@cAj@{@dI_Jp@i@^SdDuAn@a@hAcAZ]vDoF^s@b@mAN}@NaBNqCRqAfB{INgADwACoAMkAWgAeIoWe@gBIe@O_B?i@FoARkAbBsFxAqE^_BJy@lAcOV{A\\mAjCeHl@sBNuAA{@MqA]aAe@u@g@g@_A_@aAI_BPgHvAaAF{@Eu@Q}@c@aA}@eKmLk@eA]eAqAyFWuAMoAAsAHgATuAnBuFTeAHq@CoEFqBH}@Nk@r@}AfEoIL[Li@Nw@Dy@@w@Eu@wAkHOs@Yy@e@_Aq@y@kImI]c@_@y@Mc@OgAC[@kAFo@RgA~CeL\\sBNcB\\sJ@eAMyBUcCCy@FuAN{@|@}DFa@DcAQuC?m@Hm@Pc@\\a@PMd@OrAKz@SXKb@[Va@D_@?YK[SWSKa@KoA?SG[_@Wq@Gk@Cm@Di@La@d@o@Ja@?g@AMm@sAEe@Bm@bAcGXwBNWVU|@g@VYJU^sBRe@hBmCVo@Dc@A_@M_@k@c@o@OS?YJu@b@a@NSBMASK][M[CMAWHg@f@}ADWC_@KW]Ik@Ec@G_@MwA}@s@]WSk@w@c@_AqAiBe@cAOk@[}Ai@kDYgAwA}C[y@m@wCEc@Ao@Ji@Nc@^q@l@}ADi@EYKYUQSIaBU_AYoEkBa@[Q_@GSKiBK]W_@uAm@gA[s@?qDv@WJiAj@q@LU@kHe@wEC}FFc@Dc@JcAHo@Ew@[UMWWoAqBeEiG_BoBaAy@i@_@g@S{@Q_DYm@Mq@Yy@c@aAm@aCqAeAY}B]aAYu@c@c@_@k@u@g@aAcDuJw@{Ae@q@a@c@iAaAcAq@iAkAYa@mBqD{AkCcBgCq@}@o@q@_DkCw@_A]k@i@qA]uAScBEiA@}A\\}PPoC\\oChBuLd@wBp@eBj@mAtAyBr@uATm@ViAHk@HcBAcBM{Aw@eHGgA@mALoB^yBv@aC~@mCXgAZaBTuBJeDGwBQsBSqAYsAW{@oCeGm@_BmCiIm@sC{Huc@WuBaBuTCcAHcAVy@Zi@`@_@x@YrA_@j@YVQ`@e@Xe@^}@\\cBLoA@}@I}@SkAa@oAoAoCKa@Ei@AiABaCAy@Ms@Wu@mAcCa@eAQy@K_Am@iKGeB?{@Fs@Ls@`CaITeAJ{@h@kK?u@Eq@[uAe@w@s@w@cFwDwA}@cFaCmEoCgByAuAyAy@gAuAiCu@gBa@oAk@{B[eBUaBMoA_@F]A{@YgEcCzAwFfDoMPQJCM{WU_]GgMG_BOwCAq@FcA^eBv@eCR{@Dc@@k@Ey@S}@KWi@{@SS{KoGc@]WY_@q@_DqGcAcDy@iF[}BIu@Ey@FcDb@mRJqECkBi@wKA{A@e@NmAJc@Z{@lBaDL[Lg@NmAHcIRkWCuCSoGCeBEgJUiW_@kOoA_b@YsDs@}HSiDGkIBgBFoAX}Bp@qCn@gB^wAl@uCh@aDh@iCvCcKvGkV^}AVaBJuBl@_`@HoE?eBGcAK_AwHud@}@gFKa@kBcLOg@SIQYCWe@y@a@i@Yo@Ss@EQ}G}Ra@qAuVos@eDcHgAkBu@eAoF_HtBeDzAoBpEyG@KTc@UW?KaJ}KsAgBe@s@M_@SUOU[FWEUSMa@?c@H[RWLETe@Ve@tAeObBuAvDgDdAcAwFuLtAsAfByAzCsCdJeIbOgNEK@BdD}CJUh@m@L[P`@PLP@\\ZbAxAl@n@VF?FM^\\XWl@Yd@o@z@Qj@Dd@KJJNVr@r@dC"
           },
           "startLocation": {
             "latLng": {
-              "latitude": -36.8655536,
-              "longitude": 174.5734362
+              "latitude": -37.8174439,
+              "longitude": 174.8392556
             }
           },
           "endLocation": {
             "latLng": {
-              "latitude": -36.910351,
-              "longitude": 174.66767500000003
+              "latitude": -37.7945821,
+              "longitude": 175.2819826
             }
           },
           "steps": [
             {
-              "distanceMeters": 236,
-              "staticDuration": "212s",
+              "distanceMeters": 2185,
+              "staticDuration": "1744s",
               "polyline": {
-                "encodedPolyline": "th_`F_koh`@KcDKwBD}APBViC"
+                "encodedPolyline": "~eyeFkhcj`@wAqBgAaAaEiC_Aw@qAoAk@a@g@QwB[[EmCeAg@]yBmB[c@KYMk@E_DKcBUoBKo@[u@OW[aAYwBCg@@i@Lg@\\u@p@sANe@Jc@Fg@@m@EaBMi@K[OUiA}@_BgAk@i@[i@Wo@OcAE_AHsDf@yMFuD?e@WmDSiCYqC"
               },
               "startLocation": {
                 "latLng": {
-                  "latitude": -36.8655536,
-                  "longitude": 174.5734362
+                  "latitude": -37.8174439,
+                  "longitude": 174.8392556
                 }
               },
               "endLocation": {
                 "latLng": {
-                  "latitude": -36.8656706,
-                  "longitude": 174.576002
+                  "latitude": -37.8101456,
+                  "longitude": 174.8586631
                 }
               },
               "navigationInstruction": {
                 "maneuver": "DEPART",
-                "instructions": "Head east on Swanson Rd toward Knox Rd"
+                "instructions": "Head northeast on Wainui Rd toward Riria Kereopa Memorial Dr"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "2.2 km"
+                },
+                "staticDuration": {
+                  "text": "29 mins"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 26,
+              "staticDuration": "22s",
+              "polyline": {
+                "encodedPolyline": "lxweFsagj`@l@C"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -37.8101456,
+                  "longitude": 174.8586631
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -37.8103751,
+                  "longitude": 174.8586823
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto Te Hutewai Rd"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "26 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 12,
+              "staticDuration": "10s",
+              "polyline": {
+                "encodedPolyline": "zyweFwagj`@IW"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -37.8103751,
+                  "longitude": 174.8586823
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -37.810325399999996,
+                  "longitude": 174.85880079999998
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left\nDestination will be on the left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "12 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 49907,
+              "staticDuration": "4484s",
+              "polyline": {
+                "encodedPolyline": "jyweFibgj`@DESWQGIACOWk@_@i@aDuDOUkAiA_Ao@e@_@[e@e@aAoAiGw@yE[sBUm@a@_AcBaDy@oBoBuCo@u@q@c@iBq@eDs@uA]wHk@OB_ACMLOCGQBSHGJiADEb@oDAa@GUQWIC_Au@OAIO@Q_@}@IOi@a@k@Y}@L_GlC}B}HsDeOw@kA{AoBZSzDaANI^wA`@{BByADcE@i@Hi@tCiLPwADSLUVYpAgAd@KnAFdDDvC}@Lr@RxCH\\NL|HzEh@p@f@`Al@dB\\l@PLRDDqAHg@Nc@hBaE`@gBLkA?o@E{@s@eIEmA?w@Bo@P_Bf@yAbE{H|EkI~BeDvGaJnBcCTSdAk@z@Yl@IdAB|AX^Jz@f@~AhAxIpFdEjBvDz@~Al@xAt@tGzE`B|@l@Nj@Df@ChBc@`EwAxAa@hD_B~@s@^_@Xa@\\u@XcAXsB@{AK_BSoAe@uAwFgNsFyLg@sA_@yAKaAEo@B{B^{Dj@qERaARo@Tg@x@oA`F{EhDaDhBwAnFeFf@o@x@aBzJ{Sx@sBhB{Fb@_A|@uApGqHtBwBrCgCbCmBtA}@pEaBn@e@r@{@h@mAVaAJs@Fo@BcAWqJ@aBLkBFe@fNml@pCmLXyANsABwAGqASoAk@qA_@q@y@_AeCkCeAqAWe@_@oAU}AQ{DK_BU{ASu@Ui@i@{@iBmB_FeFWYy@mAmK_T{DoIg@sBSwAMyAy@ga@@uKEwAKqAOgAiCyMcAgEoFiRw@{B]u@g@u@kA{AyJuLw@eA_@{@WcAKy@C}@BqCXqLF{CBm@VqAXy@`@q@TUv@o@hC}A`@c@dA_BjFcJnRu\\\\k@v@_BtDsIlAyCn@_CV{ATyBHiBBqAEcBGwAg@eE{CsTWyBC{@@}@j@kKN}AXeAd@cAj@{@dI_Jp@i@^SdDuAn@a@hAcAZ]vDoF^s@b@mAN}@NaBNqCRqAfB{INgADwACoAMkAWgAeIoWe@gBIe@O_B?i@FoARkAbBsFxAqE^_BJy@lAcOV{A\\mAjCeHl@sBNuAA{@MqA]aAe@u@g@g@_A_@aAI_BPgHvAaAF{@Eu@Q}@c@aA}@eKmLk@eA]eAqAyFWuAMoAAsAHgATuAnBuFTeAHq@CoEFqBH}@Nk@r@}AfEoIL[Li@Nw@Dy@@w@Eu@wAkHOs@Yy@e@_Aq@y@kImI]c@_@y@Mc@OgAC[@kAFo@RgA~CeL\\sBNcB\\sJ@eAMyBUcCCy@FuAN{@|@}DFa@DcAQuC?m@Hm@Pc@\\a@PMd@OrAKz@SXKb@[Va@D_@?YK[SWSKa@KoA?SG[_@Wq@Gk@Cm@Di@La@d@o@Ja@?g@AMm@sAEe@Bm@bAcGXwBNWVU|@g@VYJU^sBRe@hBmCVo@Dc@A_@M_@k@c@o@OS?YJu@b@a@NSBMASK][M[CMAWHg@f@}ADWC_@KW]Ik@Ec@G_@MwA}@s@]WSk@w@c@_AqAiBe@cAOk@[}Ai@kDYgAwA}C[y@m@wCEc@Ao@Ji@Nc@^q@l@}ADi@EYKYUQSIaBU_AYoEkBa@[Q_@GSKiBK]W_@uAm@gA[s@?qDv@WJiAj@q@LU@kHe@wEC}FFc@Dc@JcAHo@Ew@[UMWWoAqBeEiG_BoBaAy@i@_@g@S{@Q_DYm@Mq@Yy@c@aAm@aCqAeAY}B]aAYu@c@c@_@k@u@g@aAcDuJw@{Ae@q@a@c@iAaAcAq@iAkAYa@mBqD{AkCcBgCq@}@o@q@_DkCw@_A]k@i@qA]uAScBEiA@}A\\}PPoC\\oChBuLd@wBp@eBj@mAtAyBr@uATm@ViAHk@HcBAcBM{Aw@eHGgA@mALoB^yBv@aC~@mCXgAZaBTuBJeDGwBQsBSqAYsAW{@oCeGm@_BmCiIm@sC{Huc@WuBaBuTCcAHcAVy@Zi@`@_@x@YrA_@j@YVQ`@e@Xe@^}@\\cBLoA@}@I}@SkAa@oAoAoCKa@Ei@AiABaCAy@Ms@Wu@mAcCa@eAQy@K_Am@iKGeB?{@Fs@Ls@`CaITeAJ{@h@kK?u@Eq@[uAe@w@s@w@cFwDwA}@cFaCmEoCgByAuAyAy@gAuAiCu@gBa@oAk@{B[eBUaBMoA_@F]A{@YgEcCzAwFfDoMPQJCM{WU_]GgMG_BOwCAq@FcA^eBv@eCR{@Dc@@k@Ey@S}@KWi@{@SS{KoGc@]WY_@q@_DqGcAcDy@iF[}BIu@Ey@FcDb@mRJqECkBi@wKA{A@e@NmAJc@Z{@lBaDL[Lg@NmAHcIRkWCuCSoGCeBEgJUiW_@kOoA_b@YsDs@}HSiDGkIBgBFoAX}Bp@qCn@gB^wAl@uCh@aDh@iCvCcKvGkV^}AVaBJuBl@_`@HoE?eBGcAK_AwHud@}@gFKa@kBcLOg@SIQYCWe@y@a@i@Yo@Ss@EQ}G}Ra@qAuVos@eDcHgAkBu@eAoF_HtBeDzAoBpEyG@KTc@UW?KaJ}KsAgBe@s@M_@SUOU[FWEUSMa@?c@H[RWLETe@Ve@tAeObBuAvDgDdAcAwFuLtAsAfByAzCsCdJeIbOgNEK"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -37.810296,
+                  "longitude": 174.85877499999998
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -37.792375,
+                  "longitude": 175.28437599999998
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Bus towards To Hillcrest Rd / St Johns College"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "49.9 km"
+                },
+                "staticDuration": {
+                  "text": "1 hour 15 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "130 Anglesea St, Hamilton",
+                    "location": {
+                      "latLng": {
+                        "latitude": -37.792375,
+                        "longitude": 175.28437599999998
+                      }
+                    }
+                  },
+                  "arrivalTime": "2026-06-29T20:04:44Z",
+                  "departureStop": {
+                    "name": "72 Wainui Rd, Raglan",
+                    "location": {
+                      "latLng": {
+                        "latitude": -37.810296,
+                        "longitude": 174.85877499999998
+                      }
+                    }
+                  },
+                  "departureTime": "2026-06-29T18:50:00Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "8:04 AM"
+                    },
+                    "timeZone": "Pacific/Auckland"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "6:50 AM"
+                    },
+                    "timeZone": "Pacific/Auckland"
+                  }
+                },
+                "headsign": "To Hillcrest Rd / St Johns College",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "Busit",
+                      "uri": "http://www.busit.co.nz/"
+                    }
+                  ],
+                  "name": "Raglan",
+                  "color": "#0073d1",
+                  "nameShort": "23",
+                  "textColor": "#ffffff",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 35
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 178,
+              "staticDuration": "151s",
+              "polyline": {
+                "encodedPolyline": "liteFgfzl`@dD}CJUh@m@L["
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -37.7923865,
+                  "longitude": 175.28435729999998
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -37.7935638,
+                  "longitude": 175.28562549999998
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head southeast on Anglesea St toward Clarence St"
               },
               "localizedValues": {
                 "distance": {
                   "text": "0.2 km"
                 },
                 "staticDuration": {
-                  "text": "4 mins"
+                  "text": "3 mins"
                 }
               },
               "travelMode": "WALK"
             },
             {
-              "distanceMeters": 22,
-              "staticDuration": "16s",
+              "distanceMeters": 159,
+              "staticDuration": "141s",
               "polyline": {
-                "encodedPolyline": "li_`F_{oh`@XBH?"
+                "encodedPolyline": "vpteFenzl`@P`@PLP@\\ZbAxAl@n@VF"
               },
               "startLocation": {
                 "latLng": {
-                  "latitude": -36.8656706,
-                  "longitude": 174.576002
+                  "latitude": -37.7935638,
+                  "longitude": 175.28562549999998
                 }
               },
               "endLocation": {
                 "latLng": {
-                  "latitude": -36.8658467,
-                  "longitude": 174.575978
+                  "latitude": -37.794665599999995,
+                  "longitude": 175.28450519999998
                 }
               },
               "navigationInstruction": {
-                "maneuver": "TURN_RIGHT",
-                "instructions": "Turn right"
+                "maneuver": "ROUNDABOUT_LEFT",
+                "instructions": "At the roundabout, take the 2nd exit onto Cobham Dr/Rte 4"
               },
               "localizedValues": {
                 "distance": {
-                  "text": "22 m"
+                  "text": "0.2 km"
                 },
                 "staticDuration": {
-                  "text": "1 min"
+                  "text": "2 mins"
                 }
               },
               "travelMode": "WALK"
             },
             {
-              "distanceMeters": 32,
-              "staticDuration": "24s",
-              "polyline": {
-                "encodedPolyline": "pj_`F{zoh`@DKHaA"
-              },
-              "startLocation": {
-                "latLng": {
-                  "latitude": -36.8658467,
-                  "longitude": 174.575978
-                }
-              },
-              "endLocation": {
-                "latLng": {
-                  "latitude": -36.865931599999996,
-                  "longitude": 174.57637069999998
-                }
-              },
-              "navigationInstruction": {
-                "maneuver": "TURN_LEFT",
-                "instructions": "Turn left"
-              },
-              "localizedValues": {
-                "distance": {
-                  "text": "32 m"
-                },
-                "staticDuration": {
-                  "text": "1 min"
-                }
-              },
-              "travelMode": "WALK"
-            },
-            {
-              "distanceMeters": 11059,
-              "staticDuration": "1020s",
-              "polyline": {
-                "encodedPolyline": "rl_`F{|oh`@CArAsLl@oIj@yJbAmOv@gLJmDDwLAkFKgEW{FMmEUsEK}DA}KNuEVyDxAeQzA}Ql@uI\\wDd@kHj@iHPeB\\}An@iBp@yA|@uAjFsGv@iAp@kAh@_BfBaHxJ_b@tAoFlAuFnA}Dx@iBdAeBnBuBbAy@tIiF~Ai@jASpCOjN_@pEOdHOpYs@|KWxTg@`N]fBWdAWrAm@~AgAvAsAvIaK~P}RbBaCjAyBfAeC~@mCz@aDzCkNfGsXhDyN~BsJlBsH|@{Df@gDTwBV{JRcFPsICcBM}A]wB_@uAwAwE]{AMuACqBF_BVmBDSCA"
-              },
-              "startLocation": {
-                "latLng": {
-                  "latitude": -36.86618,
-                  "longitude": 174.5763
-                }
-              },
-              "endLocation": {
-                "latLng": {
-                  "latitude": -36.91066,
-                  "longitude": 174.66706
-                }
-              },
-              "navigationInstruction": {
-                "instructions": "Train towards Waitemata/N"
-              },
-              "localizedValues": {
-                "distance": {
-                  "text": "11.1 km"
-                },
-                "staticDuration": {
-                  "text": "17 mins"
-                }
-              },
-              "transitDetails": {
-                "stopDetails": {
-                  "arrivalStop": {
-                    "name": "Fruitvale Rd",
-                    "location": {
-                      "latLng": {
-                        "latitude": -36.91066,
-                        "longitude": 174.66706
-                      }
-                    }
-                  },
-                  "arrivalTime": "2026-06-29T22:57:00Z",
-                  "departureStop": {
-                    "name": "Swanson",
-                    "location": {
-                      "latLng": {
-                        "latitude": -36.86618,
-                        "longitude": 174.5763
-                      }
-                    }
-                  },
-                  "departureTime": "2026-06-29T22:40:00Z"
-                },
-                "localizedValues": {
-                  "arrivalTime": {
-                    "time": {
-                      "text": "10:57 AM"
-                    },
-                    "timeZone": "Pacific/Auckland"
-                  },
-                  "departureTime": {
-                    "time": {
-                      "text": "10:40 AM"
-                    },
-                    "timeZone": "Pacific/Auckland"
-                  }
-                },
-                "headsign": "Waitemata/N",
-                "transitLine": {
-                  "agencies": [
-                    {
-                      "name": "AT Metro",
-                      "phoneNumber": "+64 9 355 3553",
-                      "uri": "https://at.govt.nz/"
-                    }
-                  ],
-                  "name": "West",
-                  "color": "#97c93d",
-                  "textColor": "#152239",
-                  "vehicle": {
-                    "name": {
-                      "text": "Train"
-                    },
-                    "type": "HEAVY_RAIL",
-                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png"
-                  }
-                },
-                "stopCount": 7
-              },
-              "travelMode": "TRANSIT"
-            },
-            {
-              "distanceMeters": 101,
-              "staticDuration": "82s",
-              "polyline": {
-                "encodedPolyline": "fdh`F{uai`@HDFg@Pg@l@uA"
-              },
-              "startLocation": {
-                "latLng": {
-                  "latitude": -36.9109183,
-                  "longitude": 174.66734300000002
-                }
-              },
-              "endLocation": {
-                "latLng": {
-                  "latitude": -36.911329599999995,
-                  "longitude": 174.6681398
-                }
-              },
-              "navigationInstruction": {
-                "maneuver": "DEPART",
-                "instructions": "Head south toward Fruitvale Rd"
-              },
-              "localizedValues": {
-                "distance": {
-                  "text": "0.1 km"
-                },
-                "staticDuration": {
-                  "text": "1 min"
-                }
-              },
-              "travelMode": "WALK"
-            },
-            {
-              "distanceMeters": 89,
-              "staticDuration": "83s",
-              "polyline": {
-                "encodedPolyline": "xfh`F{zai`@q@Q}AU"
-              },
-              "startLocation": {
-                "latLng": {
-                  "latitude": -36.911329599999995,
-                  "longitude": 174.6681398
-                }
-              },
-              "endLocation": {
-                "latLng": {
-                  "latitude": -36.9106083,
-                  "longitude": 174.66833839999998
-                }
-              },
-              "navigationInstruction": {
-                "maneuver": "TURN_LEFT",
-                "instructions": "Turn left onto Fruitvale Rd"
-              },
-              "localizedValues": {
-                "distance": {
-                  "text": "89 m"
-                },
-                "staticDuration": {
-                  "text": "1 min"
-                }
-              },
-              "travelMode": "WALK"
-            },
-            {
-              "distanceMeters": 71,
-              "staticDuration": "57s",
-              "polyline": {
-                "encodedPolyline": "hbh`Fc|ai`@DbBEZKN"
-              },
-              "startLocation": {
-                "latLng": {
-                  "latitude": -36.9106083,
-                  "longitude": 174.66833839999998
-                }
-              },
-              "endLocation": {
-                "latLng": {
-                  "latitude": -36.9105481,
-                  "longitude": 174.6676227
-                }
-              },
-              "navigationInstruction": {
-                "maneuver": "TURN_LEFT",
-                "instructions": "Turn left"
-              },
-              "localizedValues": {
-                "distance": {
-                  "text": "71 m"
-                },
-                "staticDuration": {
-                  "text": "1 min"
-                }
-              },
-              "travelMode": "WALK"
-            },
-            {
-              "distanceMeters": 22,
+              "distanceMeters": 27,
               "staticDuration": "20s",
               "polyline": {
-                "encodedPolyline": "|ah`Fswai`@g@K"
+                "encodedPolyline": "twteFegzl`@?FM^"
               },
               "startLocation": {
                 "latLng": {
-                  "latitude": -36.9105481,
-                  "longitude": 174.6676227
+                  "latitude": -37.794665599999995,
+                  "longitude": 175.28450519999998
                 }
               },
               "endLocation": {
                 "latLng": {
-                  "latitude": -36.910351,
-                  "longitude": 174.66767500000003
+                  "latitude": -37.7945997,
+                  "longitude": 175.28430939999998
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "ROUNDABOUT_LEFT",
+                "instructions": "At the roundabout, take the 1st exit onto Tristram St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "27 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 12,
+              "staticDuration": "19s",
+              "polyline": {
+                "encodedPolyline": "fwteF}ezl`@\\X"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -37.7945997,
+                  "longitude": 175.28430939999998
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -37.7947481,
+                  "longitude": 175.2841822
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left toward Tristram St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "12 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 84,
+              "staticDuration": "77s",
+              "polyline": {
+                "encodedPolyline": "dxteFcezl`@Wl@Yd@o@z@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -37.7947481,
+                  "longitude": 175.2841822
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -37.7942646,
+                  "longitude": 175.2834646
                 }
               },
               "navigationInstruction": {
                 "maneuver": "TURN_RIGHT",
-                "instructions": "Turn right\nDestination will be on the left"
+                "instructions": "Turn right onto Tristram St"
               },
               "localizedValues": {
                 "distance": {
-                  "text": "22 m"
+                  "text": "84 m"
                 },
                 "staticDuration": {
                   "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 151,
+              "staticDuration": "126s",
+              "polyline": {
+                "encodedPolyline": "buteFs`zl`@Qj@Dd@KJJNVr@r@dC"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": -37.7942646,
+                  "longitude": 175.2834646
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": -37.7945821,
+                  "longitude": 175.2819826
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Clarence St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "2 mins"
                 }
               },
               "travelMode": "WALK"
@@ -339,13 +403,13 @@
           ],
           "localizedValues": {
             "distance": {
-              "text": "11.6 km"
+              "text": "52.7 km"
             },
             "duration": {
-              "text": "25 mins"
+              "text": "1 hour 53 mins"
             },
             "staticDuration": {
-              "text": "25 mins"
+              "text": "1 hour 53 mins"
             }
           },
           "stepsOverview": {
@@ -354,7 +418,7 @@
                 "stepStartIndex": 0,
                 "stepEndIndex": 2,
                 "navigationInstruction": {
-                  "instructions": "Walk to Swanson"
+                  "instructions": "Walk to 72 Wainui Rd, Raglan"
                 },
                 "travelMode": "WALK"
               },
@@ -362,21 +426,21 @@
                 "stepStartIndex": 3,
                 "stepEndIndex": 3,
                 "navigationInstruction": {
-                  "instructions": "Train towards Waitemata/N"
+                  "instructions": "Bus towards To Hillcrest Rd / St Johns College"
                 },
                 "travelMode": "TRANSIT"
               },
               {
                 "stepStartIndex": 4,
-                "stepEndIndex": 7,
+                "stepEndIndex": 9,
                 "travelMode": "WALK"
               }
             ]
           }
         }
       ],
-      "distanceMeters": 11632,
-      "duration": "1514s"
+      "distanceMeters": 52741,
+      "duration": "6796s"
     }
   ]
 }

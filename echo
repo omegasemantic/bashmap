@@ -1,0 +1,10 @@
+ssh root@139.99.210.27 "
+echo '--- OS ---'; cat /etc/os-release | grep PRETTY_NAME
+echo '--- Python ---'; python3 --version
+echo '--- pip ---'; pip3 --version 2>/dev/null || echo 'not installed'
+echo '--- nginx ---'; nginx -v 2>&1
+echo '--- git ---'; git --version
+echo '--- ports listening ---'; sudo ss -tlnp
+echo '--- existing projects ---'; ls -la ~/projects 2>/dev/null || ls -la ~"
+
+

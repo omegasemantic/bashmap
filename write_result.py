@@ -1,21 +1,19 @@
 #!/usr/bin/env python3
-# write_steps.py — read steps.json, print plain text summary
+# write_result.py — read steps.json, print plain text summary
 
 import json
 
 with open('steps.json') as f:
     data = json.load(f)
 
-print(f"Distance : {data['distance']}")
-print(f"Duration : {data['duration']}")
+print(f"Arrive   : {data.get('arrival', 'unknown')}")
+print(f"Duration : {data['duration']} ({data['distance']})")
 print()
-
 for step in data['steps']:
     if step['type'] == 'WALK':
-        print(f"  WALK  : {step['instruction']} ({step['distance']})")
+        print(f"WALK: {step['instruction']} ({step['distance']})")
     else:
-        print(f"  {step['type']:<5} : {step['line']} towards {step['headsign']}")
-        print(f"          Depart {step['depart']} at {step['dep_time']}")
-        print(f"          Arrive {step['arrive']} at {step['arr_time']}")
-        print(f"          {step['stops']} stops")
+        print()
+        print(f"{step['dep_time']} {step['type']} {step['line']} towards {step['headsign']}. Depart {step['depart']}")
+        print(f"{step['arr_time']} arrive {step['arrive']}. {step['stops']} stops")
         print()

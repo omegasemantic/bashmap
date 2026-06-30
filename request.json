@@ -1,14 +1,14 @@
 {
   "origin": {
-    "address": "swanson, Auckland, New Zealand"
+    "placeId": "ChIJzQ-HY4zWEm0RbAxv7AUoMSQ"
   },
   "destination": {
-    "address": "13 fruitvale rd arr 1300, Auckland, New Zealand"
+    "address": "clarence st, hamilton, New Zealand"
   },
   "travelMode": "TRANSIT",
   "transitPreferences": {
     "routingPreference": "LESS_WALKING"
   },
   "departureTime": null,
-  "arrivalTime": null
+  "arrivalTime": "2026-06-30T09:30:00+12:00"
 }

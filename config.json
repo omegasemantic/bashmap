@@ -1,5 +1,5 @@
 {
-  "_CITY": "Auckland",
+  "_CITY": "hamilton",
   "_MODE": "TRANSIT",
   "_PREF": "LESS_WALKING",
   "_NZ": "New Zealand",
@@ -14,5 +14,8 @@
   "HOME": "ChIJzQ-HY4zWEm0RbAxv7AUoMSQ",
   "BUNN": "ChIJB_qB9V0ibW0R9qHjYw2_5Vs",
   "WAI": "ChIJRazEoP5HDW0RbzGq5KQbcwE",
-  "NEWMARKET": "ChIJVwv26WNXkWsREJ8z6lujAh0"
+  "NEWMARKET": "ChIJVwv26WNXkWsREJ8z6lujAh0",
+  "CIVIC": "ChIJv7K_PuVHDW0RJwRc8UAws2E",
+  "TK": "ChIJ9y8-3_tHDW0R5NIqfokfFCA",
+  "XXX": "Ei02NzdIK0g2IEhhbWlsdG9uLCBXYWlrYXRvIFJlZ2lvbiwgTmV3IFplYWxhbmQiJjokCgoN70166RVRT3loEAoaFAoSCSE2pod0Im1tEQOZokNh7wAF"
 }

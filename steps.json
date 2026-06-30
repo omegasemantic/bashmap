@@ -1,51 +1,62 @@
 {
-  "distance": "11.6 km",
-  "duration": "25 mins",
+  "distance": "52.7 km",
+  "duration": "1 hour 53 mins",
+  "arrival": "08:04",
   "steps": [
     {
       "type": "WALK",
-      "instruction": "Head east on Swanson Rd toward Knox Rd",
+      "instruction": "Head northeast on Wainui Rd toward Riria Kereopa Memorial Dr",
+      "distance": "2.2 km"
+    },
+    {
+      "type": "WALK",
+      "instruction": "Turn right onto Te Hutewai Rd",
+      "distance": "26 m"
+    },
+    {
+      "type": "WALK",
+      "instruction": "Turn left\nDestination will be on the left",
+      "distance": "12 m"
+    },
+    {
+      "type": "BUS",
+      "line": "Raglan",
+      "headsign": "To Hillcrest Rd / St Johns College",
+      "depart": "72 Wainui Rd, Raglan",
+      "arrive": "130 Anglesea St, Hamilton",
+      "dep_time": "06:50",
+      "arr_time": "08:04",
+      "stops": 35
+    },
+    {
+      "type": "WALK",
+      "instruction": "Head southeast on Anglesea St toward Clarence St",
       "distance": "0.2 km"
     },
     {
       "type": "WALK",
-      "instruction": "Turn right",
-      "distance": "22 m"
+      "instruction": "At the roundabout, take the 2nd exit onto Cobham Dr/Rte 4",
+      "distance": "0.2 km"
     },
     {
       "type": "WALK",
-      "instruction": "Turn left",
-      "distance": "32 m"
-    },
-    {
-      "type": "TRAIN",
-      "line": "West",
-      "headsign": "Waitemata/N",
-      "depart": "Swanson",
-      "arrive": "Fruitvale Rd",
-      "dep_time": "10:40\u202fAM",
-      "arr_time": "10:57\u202fAM",
-      "stops": 7
+      "instruction": "At the roundabout, take the 1st exit onto Tristram St",
+      "distance": "27 m"
     },
     {
       "type": "WALK",
-      "instruction": "Head south toward Fruitvale Rd",
-      "distance": "0.1 km"
+      "instruction": "Turn left toward Tristram St",
+      "distance": "12 m"
     },
     {
       "type": "WALK",
-      "instruction": "Turn left onto Fruitvale Rd",
-      "distance": "89 m"
+      "instruction": "Turn right onto Tristram St",
+      "distance": "84 m"
     },
     {
       "type": "WALK",
-      "instruction": "Turn left",
-      "distance": "71 m"
-    },
-    {
-      "type": "WALK",
-      "instruction": "Turn right\nDestination will be on the left",
-      "distance": "22 m"
+      "instruction": "Turn left onto Clarence St",
+      "distance": "0.2 km"
     }
   ]
 }

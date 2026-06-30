@@ -1,16 +1,14 @@
-Distance : 11.6 km
-Duration : 25 mins
+Arrive   : 08:04
+Duration : 1 hour 53 mins (52.7 km)
 
-  WALK  : Head east on Swanson Rd toward Knox Rd (0.2 km)
-  WALK  : Turn right (22 m)
-  WALK  : Turn left (32 m)
-  TRAIN : West towards Waitemata/N
-          Depart Swanson at 10:40 AM
-          Arrive Fruitvale Rd at 10:57 AM
-          7 stops
+WALK: Head northeast on Wainui Rd toward Riria Kereopa Memorial Dr (2.2 km)
+WALK: Turn left
+Destination will be on the left (12 m)
 
-  WALK  : Head south toward Fruitvale Rd (0.1 km)
-  WALK  : Turn left onto Fruitvale Rd (89 m)
-  WALK  : Turn left (71 m)
-  WALK  : Turn right
-Destination will be on the left (22 m)
+06:50 BUS Raglan towards To Hillcrest Rd / St Johns College. Depart 72 Wainui Rd, Raglan
+08:04 arrive 130 Anglesea St, Hamilton. 35 stops
+
+WALK: Head southeast on Anglesea St toward Clarence St (0.2 km)
+WALK: At the roundabout, take the 2nd exit onto Cobham Dr/Rte 4 (0.2 km)
+WALK: Turn right onto Tristram St (84 m)
+WALK: Turn left onto Clarence St (0.2 km)
